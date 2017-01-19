@@ -2,6 +2,8 @@ name: kafka
 summary: High-performance distributed messaging system from Apache Bigtop
 maintainer: Juju Big Data <bigdata@lists.ubuntu.com>
 description: |
+  Deploys Apache Kafka application.
+
   Fast
   A single Kafka broker can handle hundreds of megabytes of reads and writes per
   second from thousands of clients.
